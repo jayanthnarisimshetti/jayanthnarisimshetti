@@ -5,6 +5,10 @@
 - 🌱 I’m currently learning ...SpringBoot
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+- 🌍  I'm based in India
+✉️  You can contact me at 
+🤝  I'm open to collaborating on Machine Learning ,Python Projects
+⚡  Travelling
 - https://www.python.org/
 - 
 
